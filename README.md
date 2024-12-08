@@ -21,7 +21,7 @@ Este projeto é uma API desenvolvida em Java com Spring Boot para fornecer frase
   
 ## Demonstração
   
-  ![Demonstração do FIPECar](src/main/java/br/com/robsonlmds/assets/video-fipecar.gif)
+  ![Random pharses GIF](assets/randomPharses.gif)
 </div>
 
 ## 📋 Funcionalidades
